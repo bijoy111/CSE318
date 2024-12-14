@@ -1,4 +1,4 @@
-# CSE-318 | Artificial Intelligence Sessional
+# CSE 318 | Artificial Intelligence Sessional
 This repository contains my solutions to the assignments of the course CSE-318 | Artificial Intelligence.
 
 Here is the [`course outline`](/course_outline.pdf)
